@@ -1,4 +1,0 @@
-spring.datasource.username=root
-spring.datasource.url=jdbc:mysql://localhost/algalog?createDatebaseIfNotExist=true&serverTimezone=UTC
-spring.datasource.password=Pydsm3416213
-logging.level.com.algaworks=DEBUG
